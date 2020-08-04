@@ -1,0 +1,7 @@
+E:\FrontEND\DotNetConsole\StringOperaApp\StringOperaApp\bin\Debug\StringOperaApp.exe.config
+E:\FrontEND\DotNetConsole\StringOperaApp\StringOperaApp\bin\Debug\StringOperaApp.exe
+E:\FrontEND\DotNetConsole\StringOperaApp\StringOperaApp\bin\Debug\StringOperaApp.pdb
+E:\FrontEND\DotNetConsole\StringOperaApp\StringOperaApp\obj\Debug\StringOperaApp.csprojAssemblyReference.cache
+E:\FrontEND\DotNetConsole\StringOperaApp\StringOperaApp\obj\Debug\StringOperaApp.csproj.CoreCompileInputs.cache
+E:\FrontEND\DotNetConsole\StringOperaApp\StringOperaApp\obj\Debug\StringOperaApp.exe
+E:\FrontEND\DotNetConsole\StringOperaApp\StringOperaApp\obj\Debug\StringOperaApp.pdb
